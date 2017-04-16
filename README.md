@@ -1,2 +1,2 @@
-# instafornotrich
-This is a Social Media Web pag based on php for my school project
+# php-template-151
+Project-Template for GIBZ subject 151 
